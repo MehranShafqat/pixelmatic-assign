@@ -1,0 +1,10 @@
+{
+  "baseUrl": "http://127.0.0.1:8080/",
+  "ignoreTestFiles": ["*.js", "*.md"],
+  "chromeWebSecurity": false,
+  "pageLoadTimeout": 60000,
+  "video": false,
+  "viewportWidth": 1366,
+  "viewportHeight": 768,
+  "defaultCommandTimeout": 30000
+}

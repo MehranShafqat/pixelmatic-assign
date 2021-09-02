@@ -1,0 +1,16 @@
+{
+  "name": "pixelmatic-UI-tests",
+  "version": "1.0.0",
+  "description": "Using Cypress and Cucumber will run ui automation test cases",
+  "main": "index.js",
+  "author": "",
+  "license": "Private",
+  "dependencies": {
+    "cypress": "^8.2.0",
+    "cypress-cucumber-preprocessor": "^4.0.0"
+  },
+  "devDependencies": {},
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
